@@ -14,6 +14,10 @@
                 <behavior>Required</behavior>
                 <field>Demor_FST_Name__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Demor_phone__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

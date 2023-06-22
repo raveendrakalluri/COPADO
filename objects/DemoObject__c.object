@@ -164,6 +164,17 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
+        <fullName>Demor_phone__c</fullName>
+        <externalId>false</externalId>
+        <label>Demor phone</label>
+        <length>30</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Demor_FST_Name__c</fullName>
         <caseSensitive>false</caseSensitive>
         <externalId>false</externalId>
